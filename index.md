@@ -14,6 +14,9 @@ class HelloWorld {
     }
 }
 ```
+- [X] Learn git
+- [X] Learn github
+- [ ] Learn markdown
 
 
 
